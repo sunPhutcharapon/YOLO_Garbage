@@ -132,9 +132,9 @@ python 03-test_image.py
 ```
 
 ค่า Confidence ปัจจุบันคือ `0.5` และบันทึกผลด้วย `save=True`
-```bash
+
 ![รูปผลลัพธ์การตรวจจับขยะ](<test_images/test1.png>)
-```
+
 ### 2. ทดสอบวิดีโอ
 
 กำหนด Path วิดีโอทดสอบและโมเดลใน `04-test_video.py` แล้วรัน:
@@ -145,7 +145,7 @@ python 04-test_video.py
 
 ผลลัพธ์ถูกบันทึกโดย Ultralytics ภายใต้ `runs/detect/predict...`
 
-![รูปผลลัพธ์การตรวจจับขยะจากวีดีโอ](<test_images/Screenshot 2026-10-06 202708.jpg>)
+![รูปผลลัพธ์การตรวจจับขยะจากวีดีโอ](<test_images/Screenshot 2026-10-06 202708.png>)
 
 ### 3. ทดสอบกล้อง
 
@@ -159,7 +159,7 @@ python 05-test-camera.py
 
 ---
 
-![รูปผลลัพธ์การตรวจจับจากกล้อง](test_images/Screenshot 2026-10-06 204706.jpg)
+![รูปผลลัพธ์การตรวจจับจากกล้อง](<test_images/Screenshot 2026-10-06 204706.png>)
 
 ## ⚠️ หมายเหตุ
 
