@@ -132,9 +132,9 @@ python 03-test_image.py
 ```
 
 ค่า Confidence ปัจจุบันคือ `0.5` และบันทึกผลด้วย `save=True`
-
+```bash
 ![รูปผลลัพธ์การตรวจจับขยะ](<test_images/test1.png>)
-
+```
 ### 2. ทดสอบวิดีโอ
 
 กำหนด Path วิดีโอทดสอบและโมเดลใน `04-test_video.py` แล้วรัน:
