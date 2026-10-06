@@ -133,7 +133,7 @@ python 03-test_image.py
 
 ค่า Confidence ปัจจุบันคือ `0.5` และบันทึกผลด้วย `save=True`
 
-![รูปผลลัพธ์การตรวจจับขยะ](<YOLO_Garbage/test_images/test1.jpg>)
+![รูปผลลัพธ์การตรวจจับขยะ](<YOLO_Garbage/test_images/test1.png>)
 
 ### 2. ทดสอบวิดีโอ
 
