@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# YOLO training results
+runs/
+
+# Large model files
+*.pt
+
+# Dataset
+dataset/
+datasets/
+
+# Test outputs
+results/
+# ไม่เอาโฟลเดอร์ Virtual Environment
+env/
+
+# ไม่เอาไฟล์ชั่วคราวของ Python
+__pycache__/
+
+# ไม่เอาไฟล์โมเดล AI (ไฟล์มักจะใหญ่เกิน 100MB ซึ่ง GitHub ไม่รองรับ)
+*.pt

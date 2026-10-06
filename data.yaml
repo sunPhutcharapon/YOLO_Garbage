@@ -1,0 +1,6 @@
+path: C:\Users\Thinkpad\OneDrive\เอกสาร\งานจารรุจจิ\YOLO_Garbage\Garbage_Dataset_Classification\images
+train: images/train
+val: images/val
+
+nc: 6
+names: ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
