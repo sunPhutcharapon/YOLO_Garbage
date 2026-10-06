@@ -145,7 +145,7 @@ python 04-test_video.py
 
 ผลลัพธ์ถูกบันทึกโดย Ultralytics ภายใต้ `runs/detect/predict...`
 
-![รูปผลลัพธ์การตรวจจับขยะจากวีดีโอ](<test_images/Screenshot 2026-10-06 202708.png>)
+![รูปผลลัพธ์การตรวจจับขยะจากวีดีโอ](<test_images/test2.png>)
 
 ### 3. ทดสอบกล้อง
 
@@ -159,7 +159,7 @@ python 05-test-camera.py
 
 ---
 
-![รูปผลลัพธ์การตรวจจับจากกล้อง](<test_images/Screenshot 2026-10-06 204706.png>)
+![รูปผลลัพธ์การตรวจจับจากกล้อง](<test_images/test3.png>)
 
 ## ⚠️ หมายเหตุ
 
